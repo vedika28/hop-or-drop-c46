@@ -1,0 +1,6 @@
+class Booster{
+
+    constructor() {
+        
+    }
+}
